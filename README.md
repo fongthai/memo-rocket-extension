@@ -6,7 +6,7 @@
 ![Chrome](https://img.shields.io/badge/browser-Chrome-green)
 
 ## About Me
-Hi, I'm Fong Thai, a productivity enthusiast with 20+ years working in IT field. Memo Rocket is my personal project to help users quickly save and organize web memos with minimal friction.
+Hi, I'm Fong Thai, a productivity enthusiast with many years working in IT field. Memo Rocket is my personal project to help users quickly save and organize web memos with minimal friction.
 
 ## Introduction
 I built Memo Rocket to solve a common problem: capturing ideas, quotes, ... saving foreign language characters, vocabularies, sentences, ... storing images from the web instantly, without clutter of many hot-keys and switching between windows or tabs. This extension is designed for speed, simplicity, and user control.
@@ -16,7 +16,7 @@ Memo Rocket is my hobby project, not associates with any company or other indivi
 ## Current Features
 - Save selected text from any webpage to a local file
 - One-click image saving to your chosen folder
-- Multiple file format support: TXT, HTML, Markdown
+- Multiple file format support: TXT, CSV, HTML and Markdown
 - Customizable save location and file name. Or you completely let the app name the default file for you.
 - Multiple way to capture:
     - Just click the rocket icon after you highlight some text.
